@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "cl.desdel.app",
+        "sha256_cert_fingerprints": ["8D:01:5B:84:E4:CC:91:9A:80:20:DB:17:98:D9:AE:9F:B6:FD:D1:3F:8F:62:B3:1C:B5:78:F7:3D:A3:AC:EA:FD"]
+      }
+    }]
