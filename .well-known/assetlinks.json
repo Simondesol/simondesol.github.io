@@ -1,8 +1,11 @@
 [{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "cl.desdel.app",
-        "sha256_cert_fingerprints": ["8D:01:5B:84:E4:CC:91:9A:80:20:DB:17:98:D9:AE:9F:B6:FD:D1:3F:8F:62:B3:1C:B5:78:F7:3D:A3:AC:EA:FD"]
-      }
-    }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "cl.desdel.app",
+    "sha256_cert_fingerprints": [
+      "7E:F2:82:F4:92:59:28:21:32:16:60:79:E9:A6:51:23:91:C6:3B:24:EA:36:F0:67:43:3A:65:13:8B:F2:92:D9",
+      "8D:01:5B:84:E4:CC:91:9A:80:20:DB:17:98:D9:AE:9F:B6:FD:D1:3F:8F:62:B3:1C:B5:78:F7:3D:A3:AC:EA:FD"
+    ]
+  }
+}]
